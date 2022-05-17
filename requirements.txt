@@ -1,0 +1,7 @@
+pre-commit
+ipywidgets
+ipycanvas
+jupytext
+numpy
+scipy
+matplotlib
