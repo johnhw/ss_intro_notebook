@@ -4,8 +4,8 @@
 
 Your installation instructions... go here.
 
-* To install the pre-commit hook, `pip install pre-commit`, then `pre-commit install`
+`pip install -r requirements.txt`
 
 ## Navigating
 
-* [Part 1](intro_notebook.ipynb)
+* [Part 1 of the summer school](intro_notebook.ipynb)
